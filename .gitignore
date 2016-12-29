@@ -27,3 +27,8 @@
 *.exe
 *.out
 *.app
+
+build/
+*.usr
+*.kdev4
+.kdev4/
